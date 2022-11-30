@@ -24,6 +24,10 @@ body {
 
 .link {
     color: red;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: orange;
+    padding-left: 1em;
 }
 
 .border {
