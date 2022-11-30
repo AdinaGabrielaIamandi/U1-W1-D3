@@ -1,3 +1,22 @@
 body {
     font-family: "Roboto Condensed", sans-serif;
 }
+
+.header {
+    background-color: #ffb4431b;
+    padding: 1em;
+    border-top-color: orange;
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.link {
+    color: red;
+}
+
+.border {
+    border-bottom-color: lightblue;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 1em;
+}
