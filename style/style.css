@@ -42,4 +42,6 @@ footer {
 video {
     width: 600px;
     height: 400px;
+    box-shadow: 0;
+    box-shadow: 4px 4px 8px black;
 }
