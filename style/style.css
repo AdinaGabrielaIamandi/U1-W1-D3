@@ -22,6 +22,10 @@ body {
     text-align: center;
 }
 
+video {
+    border-radius: 10px 10px 10px 10px;
+}
+
 .link {
     color: red;
     border-left-width: 1px;
