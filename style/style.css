@@ -20,3 +20,8 @@ body {
     border-bottom-style: solid;
     padding-bottom: 1em;
 }
+
+video {
+    width: 600px;
+    height: 400px;
+}
