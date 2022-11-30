@@ -6,13 +6,6 @@ header {
     text-align: center;
 }
 
-.description {
-    position: relative;
-    left: 50%;
-    width: 980px;
-    margin-left: -490px;
-}
-
 main {
     position: relative;
     left: 50%;
