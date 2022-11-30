@@ -2,7 +2,32 @@ body {
     font-family: "Roboto Condensed", sans-serif;
 }
 
-.header {
+header {
+    text-align: center;
+}
+
+.description {
+    position: relative;
+    left: 50%;
+    width: 980px;
+    margin-left: -490px;
+}
+
+main {
+    position: relative;
+    left: 50%;
+    width: 980px;
+    margin-left: -490px;
+}
+
+footer {
+    position: relative;
+    left: 50%;
+    width: 980px;
+    margin-left: -490px;
+}
+
+.logo {
     background-color: #ffb4431b;
     padding: 1em;
     border-top-color: orange;
