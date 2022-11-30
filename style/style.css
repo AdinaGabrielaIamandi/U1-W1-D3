@@ -1,23 +1,13 @@
 body {
     font-family: "Roboto Condensed", sans-serif;
+    position: relative;
+    left: 50%;
+    width: 980px;
+    margin-left: -490px;
 }
 
-header {
+.heading {
     text-align: center;
-}
-
-main {
-    position: relative;
-    left: 50%;
-    width: 980px;
-    margin-left: -490px;
-}
-
-footer {
-    position: relative;
-    left: 50%;
-    width: 980px;
-    margin-left: -490px;
 }
 
 .logo {
@@ -26,6 +16,10 @@ footer {
     border-top-color: orange;
     border-top-width: 1px;
     border-top-style: solid;
+}
+
+.poster {
+    text-align: center;
 }
 
 .link {
